@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hand Shake</string>
+
+    <!--login.XML-->
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <!--main_activity.XML-->
+    <string name="Action2">Open Camera With Twist</string>
+    <string name="Action3">Open Snapchat With Chop</string>
+
+    <!--settings_activity.XML-->
+    <string name="back">Back</string>
+
+</resources>
